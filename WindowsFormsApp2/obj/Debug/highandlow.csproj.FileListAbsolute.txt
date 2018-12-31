@@ -1,0 +1,10 @@
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\highandlow.csprojAssemblyReference.cache
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\highandlow.csproj.GenerateResource.cache
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\highandlow.csproj.CoreCompileInputs.cache
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+c:\users\tsuba0\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
